@@ -7,8 +7,7 @@
       "OptionB": "correct",
       "OptionC": "wrong 2",
       "OptionD": "wrong 3",
-      "CorrectAnswer": "B",
-      "Media": "NA"
+      "CorrectAnswer": "B"
     },
     {
       "ID": "1",
@@ -17,8 +16,7 @@
       "OptionB": "wrong 2",
       "OptionC": "correct",
       "OptionD": "wrong 3",
-      "CorrectAnswer": "C",
-      "Media": "NA"
+      "CorrectAnswer": "C"
     },
     {
       "ID": "2",
@@ -27,8 +25,7 @@
       "OptionB": "wrong 2",
       "OptionC": "wrong 3",
       "OptionD": "correct",
-      "CorrectAnswer": "D",
-      "Media": "https://vver-deeprassh.github.io/SuhanaSufar/VideoAndAudio.mp4" 
+      "CorrectAnswer": "D"
     },
     {
       "ID": "3",
@@ -37,8 +34,7 @@
       "OptionB": "wrong 2",
       "OptionC": "wrong 3",
       "OptionD": "correct",
-      "CorrectAnswer": "D",
-      "Media": "https://vver-deeprassh.github.io/SuhanaSufar/Audio-Q1.mp3"
+      "CorrectAnswer": "D"
     }
   ]
 }
