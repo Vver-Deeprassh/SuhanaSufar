@@ -19,26 +19,6 @@
       "OptionD": "wrong 3",
       "CorrectAnswer": "C",
       "Media": "NA"
-    },
-    {
-      "ID": "2",
-      "Question": "Question 3",
-      "OptionA": "wrong 1",
-      "OptionB": "wrong 2",
-      "OptionC": "wrong 3",
-      "OptionD": "correct",
-      "CorrectAnswer": "D",
-      "Media": "NA" 
-    },
-    {
-      "ID": "3",
-      "Question": "Question 4",
-      "OptionA": "wrong 1",
-      "OptionB": "wrong 2",
-      "OptionC": "wrong 3",
-      "OptionD": "correct",
-      "CorrectAnswer": "D",
-      "Media": "NA"
     }
   ]
 }
