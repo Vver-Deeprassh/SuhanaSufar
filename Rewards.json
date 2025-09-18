@@ -1,1 +1,22 @@
-test
+{
+  "rewards": [
+    {
+      "rewardType": 1,
+      "Title": "HEHE",
+      "Description": "HOHO",
+      "Content": "250"
+    },
+    {
+      "rewardType": 2,
+      "Title": "hahaha",
+      "Description": "yeeye",
+      "Content": "CJNND-FDNHJS-SWFEE"
+    },
+    {
+      "rewardType": 3,
+      "Title": "MYBDSS",
+      "Description": "BBWDQ",
+      "Content": "https://gg.com"
+    }
+  ]
+}
